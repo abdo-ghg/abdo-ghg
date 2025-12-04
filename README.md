@@ -16,17 +16,20 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=abdo-ghg&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
+    <img src="https://komarev.com/ghpvc/?username=abdo-ghg&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/>
+  </a>
 </p>
 
-<p>
+<p align="center">
     <a href="YOUR_CV_LINK">
-      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/My%20CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
     <a href="YOUR_PORTFOLIO_LINK">
-      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
 </p>
+
+---
 
 ### 📤 Connect With Me
 <p align="left">
@@ -46,36 +49,25 @@
 
 ### 🚀 About Me  
 - AI Engineer & Computer Science student at **Ain Shams University – AI Major**.  
-- Passionate about **Machine Learning, Data Analysis, and building real products**.  
-- Entrepreneur working on ideas like **robotics, super apps, education platforms, and smart systems**.  
-- Volunteered at **UN-Habitat WUF'12**, USAID camps, and national tech events.  
-- Always pushing myself to build, learn, and help the people around me grow.
+- Specializing in **Machine Learning, Data Analysis, and building intelligent digital products**.  
+- Entrepreneur working on **robotics, super apps, education platforms, and smart systems**.  
+- Volunteered at **UN-Habitat WUF'12**, USAID camps, Youth Scope, and national tech initiatives.  
+- Passionate about learning, solving problems, and adding value to any team or community I join.
 
 ---
 
 ### 🧠 Highlight Projects  
-- **C++ Metro System Simulation** – Full metro routing + chat-like UI.  
-- **Tanweer (Salam Hack 2025)** – AI-powered learning platform with VR + GenAI.  
-- **Rain-to-Electricity Concept** – Sustainable engineering ideation.  
-- **Restaurant Website (HTML/CSS/JS)** – Dynamic menu categories + cart system.  
-- **Pacman Game (DS Project)** – Algorithms + game logic implementation.  
-- **.NET Coursera System** – Full platform simulation + database integration.  
-- **Machine Learning Projects** – Classification, regression, clustering, EDA, and model evaluation.
+- **C++ Metro System Simulation** – Metro routing engine + chat-style UI.  
+- **Tanweer – Salam Hack 2025** – AI-powered learning platform (GenAI + VR + interactive content).  
+- **Rain-to-Electricity Concept** – Sustainable engineering project.  
+- **Restaurant Website** – Fully dynamic, categories + cart logic (HTML/CSS/JS).  
+- **Pacman Game** – Algorithms + DS implementation.  
+- **.NET Coursera System** – Course platform simulation.  
+- **Machine Learning Projects** – Classification, clustering, prediction, EDA, and model evaluation.
 
 ---
-<h3 align="center">🏆 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo-ghg&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=abdo-ghg&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo-ghg&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg"/>
 </p>
