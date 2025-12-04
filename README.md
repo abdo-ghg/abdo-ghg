@@ -64,11 +64,12 @@
 
 ---
 ### 🏆 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=abdo-ghg&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdo-ghg&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-ghg&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo-ghg&show_icons=true&theme=dark&hide_border=true" height="165" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=abdo-ghg&theme=dark&hide_border=true" height="165" alt="streak stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo-ghg&layout=compact&theme=dark&hide_border=true" height="165" alt="top languages" />
+</div>
 
 
 <p align="center">
