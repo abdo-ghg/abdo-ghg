@@ -140,7 +140,6 @@ I'm always excited to connect with fellow developers, researchers, and tech enth
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdo-ghg)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdo-ghg)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdo.ghg@example.com)
 
 </div>
 
@@ -150,7 +149,7 @@ I'm always excited to connect with fellow developers, researchers, and tech enth
 
 ⭐ **Thank you for visiting my profile!** ⭐
 
-*"The best way to predict the future is to create it."* - Abraham Lincoln
+*"The best way to predict the future is to create it."* - Peter Drucker
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdo-ghg&color=blueviolet&style=flat-square)
 
