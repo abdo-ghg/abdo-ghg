@@ -63,14 +63,13 @@
 - **Machine Learning Projects** – Classification, regression, clustering, EDA, and model evaluation.
 
 ---
-
 ### 🏆 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo-ghg&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=abdo-ghg&theme=highcontrast" height="125"/>
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=abdo-ghg&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdo-ghg&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-ghg&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
 
 <p align="center">
   <img src="https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg"/>
